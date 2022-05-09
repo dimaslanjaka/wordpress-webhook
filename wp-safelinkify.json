@@ -3,7 +3,7 @@
 	"slug" : "wp-safelinkify",
 	"author" : "<a href='https://www.webmanajemen.com'>Dimas Lanjaka</a>",
 	"author_profile" : "https://github.com/dimaslanjaka",
-	"version" : "2.0",
+	"version" : "1.0.0",
 	"download_url" : "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip",
 	"requires" : "3.0",
 	"tested" : "5.8",
